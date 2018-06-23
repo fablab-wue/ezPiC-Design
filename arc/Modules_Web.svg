@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW Home & Student X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 205666 155100"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str5 {stroke:black;stroke-width:750}
+    .str4 {stroke:gray;stroke-width:750}
+    .str0 {stroke:black;stroke-width:200}
+    .str3 {stroke:black;stroke-width:200}
+    .str1 {stroke:black;stroke-width:200;stroke-linejoin:bevel}
+    .str6 {stroke:black;stroke-width:1500;stroke-linecap:round;stroke-linejoin:round}
+    .str7 {stroke:gray;stroke-width:750;stroke-dasharray:750.000000 2250.000000}
+    .str2 {stroke:#FF6633;stroke-width:1000;stroke-linejoin:round;stroke-dasharray:1000.000000 1000.000000}
+    .fil4 {fill:none}
+    .fil2 {fill:black}
+    .fil22 {fill:black}
+    .fil19 {fill:#003399}
+    .fil24 {fill:#38CAE0}
+    .fil20 {fill:gray}
+    .fil15 {fill:#99D9FF}
+    .fil11 {fill:#AFDBAF}
+    .fil13 {fill:#B3B3B3}
+    .fil5 {fill:#CCCCCC}
+    .fil8 {fill:#E0F4FF}
+    .fil1 {fill:#E6E6E6}
+    .fil23 {fill:#ED5121}
+    .fil0 {fill:#F4F4F4}
+    .fil18 {fill:#FF6600}
+    .fil21 {fill:#FF6633}
+    .fil9 {fill:#FFCC99}
+    .fil25 {fill:#FFCE3B}
+    .fil7 {fill:#FFFF99}
+    .fil17 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil16 {fill:black;fill-rule:nonzero}
+    .fil14 {fill:#003399;fill-rule:nonzero}
+    .fil3 {fill:#99D9FF;fill-rule:nonzero}
+    .fil12 {fill:#B3B3B3;fill-rule:nonzero}
+    .fil10 {fill:#FF6600;fill-rule:nonzero}
+    .fnt3 {font-weight:normal;font-size:1411.1px;font-family:'Arial'}
+    .fnt1 {font-weight:normal;font-size:2636px;font-family:'Arial'}
+    .fnt0 {font-weight:normal;font-size:3527.7px;font-family:'Arial'}
+    .fnt2 {font-weight:bold;font-size:4938.9px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Ebene_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_675955088">
+   <polygon class="fil0 str0" points="65669,135000 78169,135000 80669,137500 80669,155000 65669,155000 "/>
+   <polygon class="fil1 str1" points="78169,137500 78169,135000 80669,137500 "/>
+  </g>
+  <text x="69230" y="146251"  class="fil2 fnt0">PNG</text>
+  <g>
+   <path class="fil3" d="M41044 30000l0 5000 -750 0 0 -5000 375 -375 375 375zm-750 0l0 -375 375 0 -375 375zm25375 375l-25000 0 0 -750 25000 0 375 375 -375 375zm0 -750l375 0 0 375 -375 -375zm-375 3454l0 -3079 750 0 0 3079 -750 0zm375 1918l-972 -1944 1944 0 -972 1944z"/>
+  </g>
+  <line class="fil4 str2" x1="158169" y1="0" x2="158169" y2= "55000" />
+  <g>
+   <polygon class="fil0 str0" points="53169,135000 65669,135000 68169,137500 68169,155000 53169,155000 "/>
+   <polygon class="fil1 str1" points="65669,137500 65669,135000 68169,137500 "/>
+  </g>
+  <text x="58556" y="146251"  class="fil2 fnt0">JS</text>
+  <g>
+   <ellipse class="fil5" cx="154159" cy="26298" rx="6075" ry="4050"/>
+   <ellipse class="fil5" cx="157301" cy="21637" rx="5167" ry="3438"/>
+   <ellipse class="fil5" cx="161245" cy="26298" rx="7087" ry="4050"/>
+   <ellipse class="fil5" cx="162525" cy="22374" rx="2801" ry="2300"/>
+  </g>
+  <g>
+   <path class="fil6" d="M113169 40375l-7500 0 0 -750 7500 0 375 375 -375 375zm375 -375l0 375 -375 0 375 -375zm0 -15000l0 15000 -750 0 0 -15000 375 -375 375 375zm-750 0l0 -375 375 0 -375 375zm5954 375l-5579 0 0 -750 5579 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <g>
+   <path class="fil6" d="M173748 45375l-68079 0 0 -750 68079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <g>
+   <polygon class="fil0 str0" points="40669,135000 53169,135000 55669,137500 55669,155000 40669,155000 "/>
+   <polygon class="fil1 str1" points="53169,137500 53169,135000 55669,137500 "/>
+  </g>
+  <text x="44426" y="146251"  class="fil2 fnt0">CSS</text>
+  <g>
+   <path class="fil6" d="M45672 42500l1944 -972 0 1944 -1944 -972zm9997 375l-8078 0 0 -750 8078 0 0 750z"/>
+  </g>
+  <g>
+   <path class="fil6" d="M45672 45000l1944 -972 0 1944 -1944 -972zm12497 375l-10578 0 0 -750 10578 0 0 750z"/>
+  </g>
+  <g>
+   <path class="fil6" d="M45672 40000l1944 -972 0 1944 -1944 -972zm8076 375l-6157 0 0 -750 6157 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <rect class="fil1 str3" x="23169" y="82500" width="25000" height="45000"/>
+  <rect class="fil7 str0" x="25669" y="35000" width="20000" height="35000"/>
+  <text x="32079" y="41516"  class="fil2 fnt0">Web</text>
+  <g>
+   <rect class="fil8 str0" x="60669" y="40000" width="20000" height="10000"/>
+   <rect class="fil8 str0" x="58169" y="37500" width="20000" height="10000"/>
+   <rect class="fil8 str0" x="55669" y="35000" width="20000" height="10000"/>
+  </g>
+  <text x="58723" y="41516"  class="fil2 fnt0">web</text>
+  <text x="65256" y="41516"  class="fil2 fnt0">XXX</text>
+  <rect class="fil9 str3" x="25669" y="85000" width="20000" height="25000"/>
+  <text x="26101" y="91516"  class="fil2 fnt0">MicroWebS.</text>
+  <g>
+   <path class="fil3" d="M45672 92500l1944 -972 0 1944 -1944 -972zm19997 374l-18078 1 0 -750 18078 -1 375 375 -375 375zm375 -375l0 375 -375 0 375 -375zm0 -44999l0 44999 -750 0 0 -44999 750 0z"/>
+  </g>
+  <line class="fil4 str4" x1="35669" y1="125000" x2="35669" y2= "135000" />
+  <g>
+   <path class="fil10" d="M25663 97500l-3888 1944 0 -3888 3888 1944zm-9994 -750l6157 0 0 1500 -6157 0 0 -1500z"/>
+  </g>
+  <text x="39423" y="37598"  class="fil11 fnt1">{ }</text>
+  <g>
+   <path class="fil6" d="M35669 84997l-972 -1944 1944 0 -972 1944zm375 -13075l0 11157 -750 0 0 -11157 750 0zm-375 -1919l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <g>
+   <polygon class="fil0 str0" points="28169,135000 40669,135000 43169,137500 43169,155000 28169,155000 "/>
+   <polygon class="fil1 str1" points="40669,137500 40669,135000 43169,137500 "/>
+  </g>
+  <text x="30689" y="146251"  class="fil2 fnt0">HTML</text>
+  <rect class="fil7 str0" x="669" y="17500" width="20000" height="10000"/>
+  <text x="5969" y="24016"  class="fil2 fnt0">ezPiC</text>
+  <g>
+   <path class="fil12" d="M28748 22875l-8079 0 0 -750 8079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <text x="32989" y="24016"  class="fil13 fnt0">init</text>
+  <rect class="fil7 str0" x="175669" y="40000" width="20000" height="10000"/>
+  <text x="181950" y="46516"  class="fil2 fnt0">Cmd</text>
+  <rect class="fil7 str0" x="120669" y="20000" width="20000" height="10000"/>
+  <text x="121458" y="24016"  class="fil2 fnt0">TelnetClient</text>
+  <text x="124106" y="27957"  class="fil2 fnt0">or Serial</text>
+  <line class="fil4 str5" x1="78169" y1="42500" x2="95669" y2= "42500" />
+  <g>
+   <path class="fil14" d="M146826 25750l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <path class="fil6" d="M196419 44625l0 750 -750 0 0 -750 750 0zm1500 0l0 750 -750 0 0 -750 750 0zm1500 0l0 750 -750 0 0 -750 750 0zm1500 0l0 750 -750 0 0 -750 750 0zm1500 0l0 750 -750 0 0 -750 750 0zm1329 750l-579 0 0 -750 579 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <rect class="fil7 str0" x="175669" y="20000" width="20000" height="10000"/>
+  <text x="181950" y="26516"  class="fil2 fnt0">Cmd</text>
+  <g>
+   <path class="fil6" d="M196419 24625l0 750 -750 0 0 -750 750 0zm1500 0l0 750 -750 0 0 -750 750 0zm1500 0l0 750 -750 0 0 -750 750 0zm1500 0l0 750 -750 0 0 -750 750 0zm1500 0l0 750 -750 0 0 -750 750 0zm1329 750l-579 0 0 -750 579 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <g>
+   <path class="fil14" d="M171826 25750l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M45672 90000l1944 -972 0 1944 -1944 -972zm17497 375l-15578 0 0 -750 15578 0 375 375 -375 375zm375 -375l0 375 -375 0 375 -375zm0 -45000l0 45000 -750 0 0 -45000 750 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M45672 95000l1944 -972 0 1944 -1944 -972zm22497 375l-20578 0 0 -750 20578 0 375 375 -375 375zm375 -375l0 375 -375 0 375 -375zm0 -45000l0 45000 -750 0 0 -45000 750 0z"/>
+  </g>
+  <text x="43513" y="28393"  class="fil15 fnt0">load Plugins</text>
+  <g transform="matrix(2.64845E-14 -1 1 2.64845E-14 -28767.2 185417)">
+   <text x="103091" y="90000"  class="fil15 fnt0">register Route</text>
+  </g>
+  <g>
+   <path class="fil16" d="M75669 102874l-30000 1 0 -750 30000 -1 375 375 -375 375zm375 -375l0 375 -375 0 375 -375zm0 -53077l0 53077 -750 0 0 -53077 750 0zm-375 -1919l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <g>
+   <path class="fil16" d="M73169 100375l-27500 0 0 -750 27500 0 375 375 -375 375zm375 -375l0 375 -375 0 375 -375zm0 -53078l0 53078 -750 0 0 -53078 750 0zm-375 -1919l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <g>
+   <path class="fil16" d="M78169 105375l-32500 0 0 -750 32500 0 375 375 -375 375zm375 -375l0 375 -375 0 375 -375zm0 -53078l0 53078 -750 0 0 -53078 750 0zm-375 -1919l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <g>
+   <line class="fil4 str6" x1="95669" y1="42500" x2="105669" y2= "42500" />
+   <circle class="fil17 str0" cx="95669" cy="42500" r="1000"/>
+   <circle class="fil17 str0" cx="105669" cy="40000" r="1000"/>
+   <circle class="fil17 str0" cx="105669" cy="45000" r="1000"/>
+  </g>
+  <text x="3567" y="96792"  class="fil18 fnt0">HTTP</text>
+  <text x="-272" y="100733"  class="fil18 fnt0">Port 10180</text>
+  <text x="153652" y="24271"  class="fil19 fnt0">Telnet</text>
+  <text x="149728" y="28212"  class="fil19 fnt0">Port 10123</text>
+  <text x="24389" y="4958"  class="fil13 fnt2">Web-Server-Part</text>
+  <text x="55541" y="44704"  class="fil20 fnt3">./web/plugins/web/webXXX.py</text>
+  <text x="25541" y="69704"  class="fil20 fnt3">./web/Web.py</text>
+  <text x="25541" y="109704"  class="fil20 fnt3">./web/MicroWebSrv/microWeb*</text>
+  <text x="120541" y="29704"  class="fil20 fnt3">./web/Serial.py</text>
+  <text x="28124" y="154704"  class="fil20 fnt3">./web/www/...</text>
+  <text x="541" y="27204"  class="fil20 fnt3">./ezPiC.py</text>
+  <text x="160792" y="5026"  class="fil21 fnt0">IoT-Device</text>
+  <text x="165987" y="8967"  class="fil21 fnt0">Part</text>
+  <text x="137345" y="5026"  class="fil21 fnt0">Web-Server</text>
+  <text x="143487" y="8967"  class="fil21 fnt0">Part</text>
+  <g>
+   <path class="fil12" d="M23748 37875l-8079 0 0 -750 8079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <text x="9277" y="38564"  class="fil13 fnt0">init</text>
+  <polyline class="fil4 str5" points="80669,45000 85669,45000 88170,42500 85669,40000 75669,40000 "/>
+  <g>
+   <path class="fil12" d="M118748 22875l-8079 0 0 -750 8079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <text x="104277" y="23564"  class="fil13 fnt0">init</text>
+  <g transform="matrix(2.64845E-14 -1 1 2.64845E-14 -7493.9 185872)">
+   <text x="100149" y="90000"  class="fil22 fnt0">call Page-Handler</text>
+  </g>
+  <text x="115545" y="49259"  class="fil22 fnt0">execute Command</text>
+  <rect class="fil9 str3" x="25952" y="115000" width="20000" height="10000"/>
+  <text x="26679" y="121516"  class="fil2 fnt0">MicroWebT.</text>
+  <text x="25824" y="124704"  class="fil20 fnt3">./web/MicroWebSrv/microWeb*</text>
+  <g>
+   <path class="fil6" d="M35669 114997l-972 -1944 1944 0 -972 1944zm375 -3075l0 1157 -750 0 0 -1157 750 0zm-375 -1919l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <g>
+   <polygon class="fil0 str0" points="98169,135000 110669,135000 113169,137500 113169,155000 98169,155000 "/>
+   <polygon class="fil1 str1" points="110669,137500 110669,135000 113169,137500 "/>
+  </g>
+  <text x="98764" y="146251"  class="fil2 fnt0">py</text>
+  <text x="102552" y="146251"  class="fil2 fnt0">HTML</text>
+  <text x="98124" y="151551"  class="fil20 fnt3">./web/www/gadgets/...</text>
+  <text x="98124" y="153127"  class="fil20 fnt3">./web/www/gateways/...</text>
+  <text x="98124" y="154704"  class="fil20 fnt3">./web/www/rules/...</text>
+  <text x="94268" y="124473"  class="fil22 fnt0">Gadget-Pages</text>
+  <text x="93093" y="128414"  class="fil22 fnt0">Gateway-Pages</text>
+  <text x="96426" y="132355"  class="fil22 fnt0">Rule-Pages</text>
+  <line class="fil4 str7" x1="80669" y1="145000" x2="98169" y2= "145000" />
+  <g>
+   <polygon class="fil23" points="11044,1125 11044,250 11169,375 11169,1250 10294,1250 10169,1125 "/>
+   <polygon class="fil23" points="11044,2125 11044,1250 11169,1375 11169,2250 10294,2250 10169,2125 "/>
+   <polygon class="fil23" points="11044,3125 11044,2250 11169,2375 11169,3250 10294,3250 10169,3125 "/>
+   <polygon class="fil23" points="11044,4125 11044,3250 11169,3375 11169,4250 10294,4250 10169,4125 "/>
+   <polygon class="fil23" points="11044,5125 11044,4250 11169,4375 11169,5250 10294,5250 10169,5125 "/>
+   <polygon class="fil23" points="11044,6125 11044,5250 11169,5375 11169,6250 10294,6250 10169,6125 "/>
+   <polygon class="fil23" points="12044,1125 12044,250 12169,375 12169,1250 11294,1250 11169,1125 "/>
+   <polygon class="fil23" points="13044,1125 13044,250 13169,375 13169,1250 12294,1250 12169,1125 "/>
+   <polygon class="fil23" points="14044,2125 14044,1250 14169,1375 14169,2250 13294,2250 13169,2125 "/>
+   <polygon class="fil23" points="14044,3125 14044,2250 14169,2375 14169,3250 13294,3250 13169,3125 "/>
+   <polygon class="fil23" points="13044,4125 13044,3250 13169,3375 13169,4250 12294,4250 12169,4125 "/>
+   <polygon class="fil23" points="12044,4125 12044,3250 12169,3375 12169,4250 11294,4250 11169,4125 "/>
+   <polygon class="fil23" points="15544,1125 15544,250 15669,375 15669,1250 14794,1250 14669,1125 "/>
+   <polygon class="fil23" points="15544,3125 15544,2250 15669,2375 15669,3250 14794,3250 14669,3125 "/>
+   <polygon class="fil23" points="15544,4125 15544,3250 15669,3375 15669,4250 14794,4250 14669,4125 "/>
+   <polygon class="fil23" points="15544,5125 15544,4250 15669,4375 15669,5250 14794,5250 14669,5125 "/>
+   <polygon class="fil23" points="15544,6125 15544,5250 15669,5375 15669,6250 14794,6250 14669,6125 "/>
+   <polygon class="fil24" points="17544,2125 17544,1250 17669,1375 17669,2250 16794,2250 16669,2125 "/>
+   <polygon class="fil24" points="17544,3125 17544,2250 17669,2375 17669,3250 16794,3250 16669,3125 "/>
+   <polygon class="fil24" points="17544,4125 17544,3250 17669,3375 17669,4250 16794,4250 16669,4125 "/>
+   <polygon class="fil24" points="17544,5125 17544,4250 17669,4375 17669,5250 16794,5250 16669,5125 "/>
+   <polygon class="fil24" points="18544,1125 18544,250 18669,375 18669,1250 17794,1250 17669,1125 "/>
+   <polygon class="fil24" points="19544,1125 19544,250 19669,375 19669,1250 18794,1250 18669,1125 "/>
+   <polygon class="fil24" points="18544,6125 18544,5250 18669,5375 18669,6250 17794,6250 17669,6125 "/>
+   <polygon class="fil24" points="19544,6125 19544,5250 19669,5375 19669,6250 18794,6250 18669,6125 "/>
+   <polygon class="fil24" points="20544,1125 20544,250 20669,375 20669,1250 19794,1250 19669,1125 "/>
+   <polygon class="fil24" points="20544,6125 20544,5250 20669,5375 20669,6250 19794,6250 19669,6125 "/>
+   <polygon class="fil25" points="7044,6125 7044,5250 7169,5375 7169,6250 6294,6250 6169,6125 "/>
+   <polygon class="fil25" points="8044,6125 8044,5250 8169,5375 8169,6250 7294,6250 7169,6125 "/>
+   <polygon class="fil25" points="9044,6125 9044,5250 9169,5375 9169,6250 8294,6250 8169,6125 "/>
+   <polygon class="fil25" points="2544,6125 2544,5250 2669,5375 2669,6250 1794,6250 1669,6125 "/>
+   <polygon class="fil25" points="3544,6125 3544,5250 3669,5375 3669,6250 2794,6250 2669,6125 "/>
+   <polygon class="fil25" points="4544,6125 4544,5250 4669,5375 4669,6250 3794,6250 3669,6125 "/>
+   <polygon class="fil25" points="6044,6125 6044,5250 6169,5375 6169,6250 5294,6250 5169,6125 "/>
+   <polygon class="fil25" points="7044,2125 7044,1250 7169,1375 7169,2250 6294,2250 6169,2125 "/>
+   <polygon class="fil25" points="8044,2125 8044,1250 8169,1375 8169,2250 7294,2250 7169,2125 "/>
+   <polygon class="fil25" points="9044,2125 9044,1250 9169,1375 9169,2250 8294,2250 8169,2125 "/>
+   <polygon class="fil25" points="6044,2125 6044,1250 6169,1375 6169,2250 5294,2250 5169,2125 "/>
+   <polygon class="fil25" points="2544,4125 2544,3250 2669,3375 2669,4250 1794,4250 1669,4125 "/>
+   <polygon class="fil25" points="3544,4125 3544,3250 3669,3375 3669,4250 2794,4250 2669,4125 "/>
+   <polygon class="fil25" points="4544,4125 4544,3250 4669,3375 4669,4250 3794,4250 3669,4125 "/>
+   <polygon class="fil25" points="1544,4125 1544,3250 1669,3375 1669,4250 794,4250 669,4125 "/>
+   <polygon class="fil25" points="7044,5125 7044,4250 7169,4375 7169,5250 6294,5250 6169,5125 "/>
+   <polygon class="fil25" points="8044,4125 8044,3250 8169,3375 8169,4250 7294,4250 7169,4125 "/>
+   <polygon class="fil25" points="9044,3125 9044,2250 9169,2375 9169,3250 8294,3250 8169,3125 "/>
+   <polygon class="fil25" points="2544,2125 2544,1250 2669,1375 2669,2250 1794,2250 1669,2125 "/>
+   <polygon class="fil25" points="3544,2125 3544,1250 3669,1375 3669,2250 2794,2250 2669,2125 "/>
+   <polygon class="fil25" points="4544,3125 4544,2250 4669,2375 4669,3250 3794,3250 3669,3125 "/>
+   <polygon class="fil25" points="1544,3125 1544,2250 1669,2375 1669,3250 794,3250 669,3125 "/>
+   <polygon class="fil25" points="1544,5125 1544,4250 1669,4375 1669,5250 794,5250 669,5125 "/>
+  </g>
+ </g>
+</svg>

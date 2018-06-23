@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW Home & Student X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 70100 45200"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:200}
+    .str0 {stroke:black;stroke-width:200}
+    .fil7 {fill:black}
+    .fil1 {fill:#CCCCCC}
+    .fil0 {fill:#F4F4F4}
+    .fil5 {fill:red}
+    .fil6 {fill:#FFFF99}
+    .fil3 {fill:black;fill-rule:nonzero}
+    .fil4 {fill:#003399;fill-rule:nonzero}
+    .fil2 {fill:red;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:3527.7px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Ebene_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M3100 100l39000 0c1650,0 3000,1350 3000,3000l0 39000c0,1650 -1350,3000 -3000,3000l-39000 0c-1650,0 -3000,-1350 -3000,-3000l0 -39000c0,-1650 1350,-3000 3000,-3000z"/>
+  <g id="_678659416">
+   <ellipse class="fil1" cx="55926" cy="33199" rx="6075" ry="4050"/>
+   <ellipse class="fil1" cx="59069" cy="28538" rx="5167" ry="3438"/>
+   <ellipse class="fil1" cx="63013" cy="33199" rx="7087" ry="4050"/>
+   <ellipse class="fil1" cx="64293" cy="29276" rx="2801" ry="2300"/>
+  </g>
+  <g>
+   <path class="fil2" d="M49076 33350l-23976 0 0 -1500 23976 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <rect class="fil1" x="30378" y="10308" width="972" height="972"/>
+   <rect class="fil1" x="30378" y="12253" width="972" height="972"/>
+   <rect class="fil1" x="30378" y="14197" width="972" height="972"/>
+   <rect class="fil1" x="30378" y="16142" width="972" height="972"/>
+   <rect class="fil1" x="30378" y="18086" width="972" height="972"/>
+   <rect class="fil1" x="30378" y="20031" width="972" height="972"/>
+   <rect class="fil1" x="30378" y="21975" width="972" height="972"/>
+   <rect class="fil1" x="30378" y="23919" width="972" height="972"/>
+   <rect class="fil1" x="39128" y="12253" width="972" height="972"/>
+   <rect class="fil1" x="39128" y="14197" width="972" height="972"/>
+   <rect class="fil1" x="39128" y="16142" width="972" height="972"/>
+   <rect class="fil1" x="39128" y="18086" width="972" height="972"/>
+   <rect class="fil1" x="39128" y="20031" width="972" height="972"/>
+   <rect class="fil1" x="39128" y="21975" width="972" height="972"/>
+   <rect class="fil1" x="39128" y="23919" width="972" height="972"/>
+   <rect class="fil1" x="39128" y="10308" width="972" height="972"/>
+   <path class="fil1" d="M31350 8850l2917 0c0,537 435,972 972,972 537,0 972,-435 972,-972l2917 0 0 17500 -7778 0 0 -17500z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M31257 18350l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <path class="fil4" d="M1257 25850l-1157 0 0 -1500 1157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <text x="54970" y="31102"  class="fil5 fnt0">HTTP</text>
+  <text x="64160" y="31102"  class="fil5 fnt0">,</text>
+  <text x="55028" y="35043"  class="fil5 fnt0">MQTT</text>
+  <rect class="fil6 str1" x="5100" y="10100" width="20000" height="30000"/>
+  <text x="12556" y="19116"  class="fil7 fnt0">IoT</text>
+  <text x="11870" y="23057"  class="fil7 fnt0">Part</text>
+  <text x="9588" y="6873"  class="fil7 fnt0">Device</text>
+ </g>
+</svg>

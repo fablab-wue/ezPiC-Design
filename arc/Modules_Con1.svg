@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW Home & Student X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 165100 45200"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:200}
+    .str0 {stroke:black;stroke-width:200}
+    .fil3 {fill:black}
+    .fil6 {fill:#003399}
+    .fil1 {fill:#333333}
+    .fil9 {fill:#33CC33}
+    .fil11 {fill:#999999}
+    .fil5 {fill:#CCCCCC}
+    .fil0 {fill:#F4F4F4}
+    .fil10 {fill:#FFFF99}
+    .fil2 {fill:white}
+    .fil8 {fill:black;fill-rule:nonzero}
+    .fil4 {fill:#003399;fill-rule:nonzero}
+    .fil7 {fill:red;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:3527.7px;font-family:'Arial'}
+    .fnt1 {font-weight:bold;font-size:8466.7px;font-family:'Courier New'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Ebene_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M98100 100l39000 0c1650,0 3000,1351 3000,3000l0 39000c0,1650 -1350,3000 -3000,3000l-39000 0c-1649,0 -3000,-1350 -3000,-3000l0 -39000c0,-1650 1350,-3000 3000,-3000z"/>
+  <path class="fil0 str0" d="M3100 100l24000 0c1650,0 3000,1351 3000,3000l0 39000c0,1650 -1350,3000 -3000,3000l-24000 0c-1649,0 -3000,-1350 -3000,-3000l0 -39000c0,-1650 1350,-3000 3000,-3000z"/>
+  <rect class="fil1 str1" x="5100" y="10100" width="20000" height="30000"/>
+  <text x="8440" y="19116"  class="fil2 fnt0">Terminal</text>
+  <text x="6916" y="6873"  class="fil3 fnt0">Admin </text>
+  <text x="17957" y="6873"  class="fil3 fnt0">PC</text>
+  <g>
+   <path class="fil4" d="M96257 17100l-71157 0 0 -1500 71157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <ellipse class="fil5" cx="55345" cy="17670" rx="6075" ry="4050"/>
+   <ellipse class="fil5" cx="58487" cy="13009" rx="5167" ry="3438"/>
+   <ellipse class="fil5" cx="62432" cy="17670" rx="7087" ry="4050"/>
+   <ellipse class="fil5" cx="63712" cy="13747" rx="2801" ry="2300"/>
+  </g>
+  <text x="55193" y="15621"  class="fil6 fnt0">Telnet</text>
+  <text x="51270" y="19562"  class="fil6 fnt0">Port 10123</text>
+  <g>
+   <ellipse class="fil5" cx="150926" cy="33199" rx="6075" ry="4050"/>
+   <ellipse class="fil5" cx="154069" cy="28538" rx="5167" ry="3438"/>
+   <ellipse class="fil5" cx="158013" cy="33199" rx="7087" ry="4050"/>
+   <ellipse class="fil5" cx="159293" cy="29276" rx="2801" ry="2300"/>
+  </g>
+  <g>
+   <path class="fil7" d="M144076 33350l-23976 0 0 -1500 23976 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <rect class="fil5" x="125378" y="11558" width="972" height="972"/>
+   <rect class="fil5" x="125378" y="13503" width="972" height="972"/>
+   <rect class="fil5" x="125378" y="15447" width="972" height="972"/>
+   <rect class="fil5" x="125378" y="17392" width="972" height="972"/>
+   <rect class="fil5" x="125378" y="19336" width="972" height="972"/>
+   <rect class="fil5" x="125378" y="21281" width="972" height="972"/>
+   <rect class="fil5" x="125378" y="23225" width="972" height="972"/>
+   <rect class="fil5" x="125378" y="25169" width="972" height="972"/>
+   <rect class="fil5" x="134128" y="13503" width="972" height="972"/>
+   <rect class="fil5" x="134128" y="15447" width="972" height="972"/>
+   <rect class="fil5" x="134128" y="17392" width="972" height="972"/>
+   <rect class="fil5" x="134128" y="19336" width="972" height="972"/>
+   <rect class="fil5" x="134128" y="21281" width="972" height="972"/>
+   <rect class="fil5" x="134128" y="23225" width="972" height="972"/>
+   <rect class="fil5" x="134128" y="25169" width="972" height="972"/>
+   <rect class="fil5" x="134128" y="11558" width="972" height="972"/>
+   <path class="fil5" d="M126350 10100l2917 0c0,537 435,972 972,972 537,0 972,-435 972,-972l2917 0 0 17500 -7778 0 0 -17500z"/>
+  </g>
+  <g>
+   <path class="fil8" d="M126257 18350l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <text x="9753" y="32409"  class="fil9 fnt1">&gt;_</text>
+  <rect class="fil10 str1" x="100100" y="10100" width="20000" height="30000"/>
+  <text x="107556" y="19116"  class="fil3 fnt0">IoT</text>
+  <text x="106870" y="23057"  class="fil3 fnt0">Part</text>
+  <text x="104588" y="6873"  class="fil3 fnt0">Device</text>
+  <g>
+   <path class="fil4" d="M96257 34600l-71157 0 0 -1500 71157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <text x="51361" y="32613"  class="fil6 fnt0">USB-Serial</text>
+  <text x="58516" y="26363"  class="fil11 fnt0">or</text>
+ </g>
+</svg>

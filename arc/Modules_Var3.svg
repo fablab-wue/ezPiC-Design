@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW Home & Student X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 105623 160032"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#00CCFF;stroke-width:750}
+    .str0 {stroke:#FF6600;stroke-width:750}
+    .str1 {stroke:black;stroke-width:200}
+    .fil1 {fill:none}
+    .fil6 {fill:black}
+    .fil11 {fill:#00CCFF}
+    .fil18 {fill:gray}
+    .fil9 {fill:gray}
+    .fil15 {fill:#B599FF}
+    .fil13 {fill:#CCCCCC}
+    .fil19 {fill:#D9FF99}
+    .fil14 {fill:#E9E0FF}
+    .fil2 {fill:#F4FFE0}
+    .fil12 {fill:#FDE2BE}
+    .fil3 {fill:#FF6600}
+    .fil8 {fill:#FFCC00}
+    .fil17 {fill:#FFCC99}
+    .fil7 {fill:#FFFF99}
+    .fil0 {fill:black;fill-rule:nonzero}
+    .fil10 {fill:black;fill-rule:nonzero}
+    .fil5 {fill:#00CCFF;fill-rule:nonzero}
+    .fil16 {fill:red;fill-rule:nonzero}
+    .fil4 {fill:#FF6600;fill-rule:nonzero}
+    .fnt2 {font-weight:normal;font-size:1411.1px;font-family:'Arial'}
+    .fnt3 {font-weight:normal;font-size:2636px;font-family:'Arial'}
+    .fnt0 {font-weight:normal;font-size:3527.7px;font-family:'Arial'}
+    .fnt1 {font-weight:normal;font-size:10660.9px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Ebene_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <path class="fil0" d="M45631 50704l0 14328 -750 0 0 -14328 750 0zm-375 -1919l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <g>
+   <path class="fil0" d="M38250 50704l0 14328 -750 0 0 -14328 750 0zm-375 -1919l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <line class="fil1 str0" x1="375" y1="13782" x2="12875" y2= "13782" />
+  <rect class="fil2 str1" x="15375" y="8782" width="42500" height="10000"/>
+  <rect class="fil3 str1" x="34250" y="10032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil2 str1" x="12875" y="6282" width="42500" height="10000"/>
+  <rect class="fil3 str1" x="31750" y="7532" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil3 str1" x="39250" y="7532" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil3 str1" x="46750" y="7532" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil2 str1" x="10375" y="3782" width="42500" height="10000"/>
+  <rect class="fil3 str1" x="29250" y="5032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <line class="fil1 str0" x1="375" y1="11282" x2="10375" y2= "11282" />
+  <g>
+   <path class="fil4" d="M8454 9157l-8079 0 0 -750 8079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <line class="fil1 str2" x1="375" y1="71282" x2="10375" y2= "71282" />
+  <polyline class="fil1 str2" points="12875,73782 375,73782 375,41282 27875,41282 "/>
+  <g>
+   <path class="fil5" d="M8454 69157l-8079 0 0 -750 8079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <text x="14702" y="10298"  class="fil6 fnt0">gd</text>
+  <text x="18688" y="10298"  class="fil6 fnt0">XXX</text>
+  <rect class="fil7 str1" x="27875" y="33782" width="20000" height="15000"/>
+  <text x="31539" y="40298"  class="fil6 fnt0">Variable</text>
+  <text x="36703" y="44239"  class="fil6 fnt0">A</text>
+  <text x="57833" y="44044"  class="fil6 fnt1">{ }</text>
+  <g>
+   <path class="fil0" d="M55954 41657l-8079 0 0 -750 8079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <path class="fil8 str1" d="M47375 38782l500 0 0 5000 -500 0c-1100,0 -2000,-900 -2000,-2000l0 -1000c0,-1100 900,-2000 2000,-2000z"/>
+  <text x="10247" y="13486"  class="fil9 fnt2">./dev/plugins/gadgets/gdXXX.py</text>
+  <text x="27747" y="48486"  class="fil9 fnt2">./dev/Variable.py</text>
+  <text x="36529" y="62526"  class="fil3 fnt0">Instances</text>
+  <g>
+   <path class="fil10" d="M63454 9157l-19579 0 0 -750 19579 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <text x="26274" y="6381"  class="fil3 fnt3">{ }</text>
+  <rect class="fil3 str1" x="36625" y="5032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <text x="36529" y="2526"  class="fil3 fnt0">Instances</text>
+  <g>
+   <path class="fil0" d="M35000 31861l0 -16829 750 0 0 16829 -750 0zm375 1918l-972 -1944 1944 0 -972 1944z"/>
+  </g>
+  <g>
+   <path class="fil0" d="M37500 31861l0 -14329 750 0 0 14329 -750 0zm375 1918l-972 -1944 1944 0 -972 1944z"/>
+  </g>
+  <g>
+   <path class="fil0" d="M32500 31861l0 -19329 750 0 0 19329 -750 0zm375 1918l-972 -1944 1944 0 -972 1944z"/>
+  </g>
+  <g>
+   <path class="fil0" d="M40000 31861l0 -19329 750 0 0 19329 -750 0zm375 1918l-972 -1944 1944 0 -972 1944z"/>
+  </g>
+  <text x="769" y="40026"  class="fil11 fnt0">Notify</text>
+  <text x="174" y="7601"  class="fil3 fnt0">Timer</text>
+  <rect class="fil12 str1" x="15255" y="68782" width="42500" height="10000"/>
+  <rect class="fil3 str1" x="34130" y="70032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil3 str1" x="41630" y="70032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil12 str1" x="12755" y="66282" width="42500" height="10000"/>
+  <rect class="fil12 str1" x="10255" y="63782" width="42500" height="10000"/>
+  <rect class="fil3 str1" x="29130" y="65032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <text x="36410" y="62526"  class="fil3 fnt0">Instances</text>
+  <text x="15566" y="70298"  class="fil6 fnt0">rl</text>
+  <text x="17586" y="70298"  class="fil6 fnt0">XXX</text>
+  <text x="10127" y="73486"  class="fil9 fnt2">./dev/plugins/rules/rlXXX.py</text>
+  <text x="26155" y="66740"  class="fil3 fnt3">{ }</text>
+  <g>
+   <path class="fil0" d="M33250 50704l0 14328 -750 0 0 -14328 750 0zm-375 -1919l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <g>
+   <path class="fil0" d="M40750 110704l0 14328 -750 0 0 -14328 750 0zm-375 -1919l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <g>
+   <ellipse class="fil13" cx="91450" cy="133132" rx="6075" ry="4050"/>
+   <ellipse class="fil13" cx="94592" cy="128470" rx="5167" ry="3438"/>
+   <ellipse class="fil13" cx="98536" cy="133132" rx="7087" ry="4050"/>
+   <ellipse class="fil13" cx="99816" cy="129208" rx="2801" ry="2300"/>
+  </g>
+  <rect class="fil14 str1" x="15375" y="128782" width="42500" height="10000"/>
+  <rect class="fil3 str1" x="41750" y="130032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <line class="fil1 str2" x1="375" y1="131282" x2="10375" y2= "131282" />
+  <polyline class="fil1 str2" points="12875,133782 375,133782 375,101282 27875,101282 "/>
+  <g>
+   <path class="fil5" d="M8454 129157l-8079 0 0 -750 8079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <g>
+   <path class="fil10" d="M68454 134157l-18079 0 0 -750 18079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <rect class="fil7 str1" x="27875" y="93782" width="20000" height="15000"/>
+  <text x="31539" y="100298"  class="fil6 fnt0">Variable</text>
+  <text x="36703" y="104239"  class="fil6 fnt0">B</text>
+  <text x="57833" y="104044"  class="fil6 fnt1">{ }</text>
+  <g>
+   <path class="fil0" d="M55954 101657l-8079 0 0 -750 8079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <path class="fil8 str1" d="M47375 98782l500 0 0 5000 -500 0c-1100,0 -2000,-900 -2000,-2000l0 -1000c0,-1100 900,-2000 2000,-2000z"/>
+  <text x="27747" y="108486"  class="fil9 fnt2">./dev/Variable.py</text>
+  <rect class="fil3 str1" x="34250" y="130032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil14 str1" x="12875" y="126282" width="42500" height="10000"/>
+  <rect class="fil3 str1" x="31750" y="127532" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil3 str1" x="39250" y="127532" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil3 str1" x="46750" y="127532" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil14 str1" x="10375" y="123782" width="42500" height="10000"/>
+  <rect class="fil3 str1" x="29250" y="125032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <text x="36529" y="122526"  class="fil3 fnt0">Instances</text>
+  <g>
+   <path class="fil10" d="M63454 129157l-26954 0 0 -750 26954 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <text x="14410" y="130298"  class="fil6 fnt0">gw</text>
+  <text x="18981" y="130298"  class="fil6 fnt0">XXX</text>
+  <text x="10247" y="133486"  class="fil9 fnt2">./dev/plugins/gateways/gwXXX.py</text>
+  <g>
+   <path class="fil10" d="M65954 131657l-11954 0 0 -750 11954 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <g>
+   <rect class="fil15 str1" x="70375" y="128782" width="20000" height="10000"/>
+   <rect class="fil15 str1" x="67875" y="126282" width="20000" height="10000"/>
+   <rect class="fil15 str1" x="65375" y="123782" width="20000" height="10000"/>
+  </g>
+  <text x="68923" y="130298"  class="fil9 fnt0">MQTT</text>
+  <text x="78958" y="130298"  class="fil9 fnt0">...</text>
+  <g>
+   <path class="fil16" d="M91532 129533l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <path class="fil16" d="M94032 132033l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <path class="fil16" d="M96532 134533l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <text x="65376" y="122526"  class="fil17 fnt0">external Libs</text>
+  <text x="26274" y="126560"  class="fil3 fnt3">{ }</text>
+  <g>
+   <path class="fil0" d="M32500 91861l0 -19329 750 0 0 19329 -750 0zm375 1918l-972 -1944 1944 0 -972 1944z"/>
+  </g>
+  <g>
+   <path class="fil0" d="M37500 91861l0 -14329 750 0 0 14329 -750 0zm375 1918l-972 -1944 1944 0 -972 1944z"/>
+  </g>
+  <text x="769" y="100026"  class="fil11 fnt0">Notify</text>
+  <g>
+   <path class="fil0" d="M33250 110704l0 14328 -750 0 0 -14328 750 0zm-375 -1919l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <g>
+   <path class="fil0" d="M44881 91861l0 -14329 750 0 0 14329 -750 0zm375 1918l-972 -1944 1944 0 -972 1944z"/>
+  </g>
+  <text x="50213" y="88080"  class="fil18 fnt0">Write other Variables</text>
+  <text x="50255" y="116282"  class="fil18 fnt0">Read new / updated Variables</text>
+  <text x="50255" y="28744"  class="fil18 fnt0">Write Variables</text>
+  <text x="50255" y="56244"  class="fil18 fnt0">Read new / updated Variables</text>
+  <g>
+   <rect class="fil13" x="95394" y="143991" width="972" height="972"/>
+   <rect class="fil13" x="95394" y="145935" width="972" height="972"/>
+   <rect class="fil13" x="95394" y="147880" width="972" height="972"/>
+   <rect class="fil13" x="95394" y="149824" width="972" height="972"/>
+   <rect class="fil13" x="95394" y="151768" width="972" height="972"/>
+   <rect class="fil13" x="95394" y="153713" width="972" height="972"/>
+   <rect class="fil13" x="95394" y="155657" width="972" height="972"/>
+   <rect class="fil13" x="95394" y="157602" width="972" height="972"/>
+   <rect class="fil13" x="104144" y="145935" width="972" height="972"/>
+   <rect class="fil13" x="104144" y="147880" width="972" height="972"/>
+   <rect class="fil13" x="104144" y="149824" width="972" height="972"/>
+   <rect class="fil13" x="104144" y="151768" width="972" height="972"/>
+   <rect class="fil13" x="104144" y="153713" width="972" height="972"/>
+   <rect class="fil13" x="104144" y="155657" width="972" height="972"/>
+   <rect class="fil13" x="104144" y="157602" width="972" height="972"/>
+   <rect class="fil13" x="104144" y="143991" width="972" height="972"/>
+   <path class="fil13" d="M96366 142532l2917 0c0,537 435,973 972,973 537,0 973,-436 973,-973l2916 0 0 17500 -7778 0 0 -17500z"/>
+  </g>
+  <rect class="fil2 str1" x="15255" y="148782" width="42500" height="10000"/>
+  <g>
+   <path class="fil10" d="M68334 154157l-18079 0 0 -750 18079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <rect class="fil3 str1" x="34130" y="150032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil2 str1" x="12755" y="146282" width="42500" height="10000"/>
+  <rect class="fil3 str1" x="31630" y="147532" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil3 str1" x="39130" y="147532" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil3 str1" x="46630" y="147532" width="7250" height="7500" rx="1188" ry="1229"/>
+  <rect class="fil2 str1" x="10255" y="143782" width="42500" height="10000"/>
+  <rect class="fil3 str1" x="29130" y="145032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <line class="fil1 str2" x1="255" y1="151282" x2="10255" y2= "151282" />
+  <g>
+   <path class="fil5" d="M8334 149157l-8079 0 0 -750 8079 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <text x="14583" y="150298"  class="fil6 fnt0">gd</text>
+  <text x="18568" y="150298"  class="fil6 fnt0">XXX</text>
+  <text x="10127" y="153486"  class="fil9 fnt2">./dev/plugins/gadgets/gdXXX.py</text>
+  <g>
+   <path class="fil10" d="M65834 151657l-11954 0 0 -750 11954 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <g>
+   <rect class="fil19 str1" x="70255" y="148782" width="20000" height="10000"/>
+   <rect class="fil19 str1" x="67755" y="146282" width="20000" height="10000"/>
+   <rect class="fil19 str1" x="65255" y="143782" width="20000" height="10000"/>
+  </g>
+  <text x="69193" y="150298"  class="fil9 fnt0">GPIO</text>
+  <text x="78449" y="150298"  class="fil9 fnt0">...</text>
+  <g>
+   <path class="fil10" d="M91412 149533l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <path class="fil10" d="M93912 152033l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <path class="fil10" d="M96412 154533l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <text x="26155" y="146381"  class="fil3 fnt3">{ }</text>
+  <rect class="fil3 str1" x="36505" y="145032" width="7250" height="7500" rx="1188" ry="1229"/>
+  <g>
+   <path class="fil0" d="M33130 143954l0 1078 -750 0 0 -1078 750 0zm-375 -1918l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <g>
+   <path class="fil0" d="M40631 143954l0 1078 -750 0 0 -1078 750 0zm-375 -1918l972 1944 -1944 0 972 -1944z"/>
+  </g>
+  <g>
+   <path class="fil10" d="M63334 149158l-19579 0 0 -750 19579 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <polyline class="fil1 str2" points="12875,153782 375,153782 375,101282 27875,101282 "/>
+  <g>
+   <rect class="fil13" x="95514" y="3991" width="972" height="972"/>
+   <rect class="fil13" x="95514" y="5935" width="972" height="972"/>
+   <rect class="fil13" x="95514" y="7880" width="972" height="972"/>
+   <rect class="fil13" x="95514" y="9824" width="972" height="972"/>
+   <rect class="fil13" x="95514" y="11768" width="972" height="972"/>
+   <rect class="fil13" x="95514" y="13713" width="972" height="972"/>
+   <rect class="fil13" x="95514" y="15657" width="972" height="972"/>
+   <rect class="fil13" x="95514" y="17602" width="972" height="972"/>
+   <rect class="fil13" x="104264" y="5935" width="972" height="972"/>
+   <rect class="fil13" x="104264" y="7880" width="972" height="972"/>
+   <rect class="fil13" x="104264" y="9824" width="972" height="972"/>
+   <rect class="fil13" x="104264" y="11768" width="972" height="972"/>
+   <rect class="fil13" x="104264" y="13713" width="972" height="972"/>
+   <rect class="fil13" x="104264" y="15657" width="972" height="972"/>
+   <rect class="fil13" x="104264" y="17602" width="972" height="972"/>
+   <rect class="fil13" x="104264" y="3991" width="972" height="972"/>
+   <path class="fil13" d="M96486 2532l2917 0c0,537 435,973 972,973 537,0 972,-436 972,-973l2917 0 0 17500 -7778 0 0 -17500z"/>
+  </g>
+  <g>
+   <path class="fil10" d="M68454 11657l-14454 0 0 -750 14454 0 0 750zm1918 -375l-1944 972 0 -1944 1944 972z"/>
+  </g>
+  <g>
+   <rect class="fil19 str1" x="70375" y="8782" width="20000" height="10000"/>
+   <rect class="fil19 str1" x="67875" y="6282" width="20000" height="10000"/>
+   <rect class="fil19 str1" x="65375" y="3782" width="20000" height="10000"/>
+  </g>
+  <text x="69313" y="10298"  class="fil9 fnt0">GPIO</text>
+  <text x="78568" y="10298"  class="fil9 fnt0">...</text>
+  <g>
+   <path class="fil10" d="M91532 9533l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <path class="fil10" d="M94032 12033l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <g>
+   <path class="fil10" d="M96532 14533l-6157 0 0 -1500 6157 0 0 1500zm3837 -750l-3888 1944 0 -3888 3888 1944z"/>
+  </g>
+  <text x="65096" y="2526"  class="fil17 fnt0">external Libs</text>
+ </g>
+</svg>
